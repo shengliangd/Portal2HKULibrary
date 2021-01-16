@@ -1,7 +1,7 @@
 {
   "name": "Portal to HKU Library",
   "version": "0.0.1",
-  "description": "Automatically open in HKU library for open access.",
+  "description": "Portal to databases proxied by HKU library for easy access to literatures.",
   "permissions": ["activeTab"],
   "background": {
     "scripts": ["background.js"],
