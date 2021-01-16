@@ -10,5 +10,5 @@ You may need to login with your HKU account in order to access HKU library.
 
 TODO: This extension would be available in [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) later. For now you need to install as unpacked extension in developer mode:
 
-![tutorial](images\tutorial.png)
+![tutorial](images/tutorial.png)
 
