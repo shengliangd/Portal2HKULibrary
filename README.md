@@ -1,10 +1,12 @@
-# Portal to HKU Library
+# Portal2HKUL
 
 ## Motivation
 
 [HKU library](https://lib.hku.hk/) provides open access to various literature databases for the staff, which is very beneficial for researchers. However, usually when I googled some keywords and interested by some paper with no open access, I need to go [Find@HKUL](https://lib.hku.hk/) or corresponding databases proxied by HKU library and search for that title again, which is quite inconvenient. What's even worse, Find@HKUL sometimes fails to find the paper.
 
 This chrome extension is intended to ease the above process.
+
+NOTE: Later I found [HKUL Search Assistant](https://chrome.google.com/webstore/detail/hkul-search-assistant/lfjmkaiddobaebgokockcncpchpbnoad?hl=en) which supports both searching and redirecting. However, Portal2HKUL can be [configured to activate with shortcuts](chrome://extensions/shortcuts) which you may find convenient.
 
 ## Usage
 
@@ -16,6 +18,8 @@ Note: Relax, this extension has no permission to access your account and passwor
 
 ## Install
 
-This extension would be available in [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) later. For now you need to install as unpacked extension in developer mode:
+For now you need to install as unpacked extension in developer mode. Download the repo and go as follows:
 
 ![tutorial](images/tutorial.png)
+
+
