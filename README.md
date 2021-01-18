@@ -12,6 +12,8 @@ This chrome extension is intended to ease the above process.
 2. When you are on the abstract page of some interesting paper from some database like IEEE Xplore, ACM Digital Library, etc., just click the icon in the extension bar and you'll be redirected to the same page proxied by HKU library.
 3. You may need to login with your HKU account in order to access HKU library.
 
+Note: Relax, this extension has no permission to access your account and password. Besides, the login page is from HKU library, which you can check with the url in the address bar.
+
 ## Install
 
 This extension would be available in [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) later. For now you need to install as unpacked extension in developer mode:
